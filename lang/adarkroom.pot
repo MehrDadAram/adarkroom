@@ -279,7 +279,7 @@ msgid "got it"
 msgstr ""
 
 #: script/engine.js:305
-msgid "are you sure?"
+msgid "مطمئنی؟"
 msgstr ""
 
 #: script/engine.js:306
@@ -291,11 +291,11 @@ msgid "this is irreversible."
 msgstr ""
 
 #: script/engine.js:311 script/engine.js:380 script/engine.js:530
-msgid "yes"
+msgid "بله"
 msgstr ""
 
 #: script/engine.js:316 script/engine.js:385 script/engine.js:535
-msgid "no"
+msgid "خیر"
 msgstr ""
 
 #: script/engine.js:322
@@ -303,11 +303,11 @@ msgid "put the save code here."
 msgstr ""
 
 #: script/engine.js:374
-msgid "Restart?"
+msgid "از نو؟"
 msgstr ""
 
 #: script/engine.js:377
-msgid "restart the game?"
+msgid "بازی از نو؟"
 msgstr ""
 
 #: script/engine.js:408
@@ -327,7 +327,7 @@ msgid "android"
 msgstr ""
 
 #: script/engine.js:428 script/engine.js:473
-msgid "close"
+msgid "بستن"
 msgstr ""
 
 #: script/engine.js:439
@@ -448,31 +448,31 @@ msgid " and "
 msgstr ""
 
 #: script/events.js:994
-msgid "*** EVENT ***"
+msgid "*** حادثه ***"
 msgstr ""
 
 #: script/localization.js:4
-msgid "saved."
+msgid "ذخیره شد."
 msgstr ""
 
 #: script/localization.js:5
-msgid "wood"
+msgid "چوب"
 msgstr ""
 
 #: script/localization.js:6
-msgid "builder"
+msgid "سازنده"
 msgstr ""
 
 #: script/localization.js:7
-msgid "teeth"
+msgid "دندان"
 msgstr ""
 
 #: script/localization.js:8
-msgid "meat"
+msgid "گوشت"
 msgstr ""
 
 #: script/localization.js:9
-msgid "fur"
+msgid "خز"
 msgstr ""
 
 #: script/localization.js:10
@@ -488,15 +488,15 @@ msgid "charm"
 msgstr ""
 
 #: script/localization.js:13 script/path.js:138
-msgid "leather"
+msgid "چرم"
 msgstr ""
 
 #: script/localization.js:14 script/path.js:136
-msgid "iron"
+msgid "آهن"
 msgstr ""
 
 #: script/localization.js:15 script/path.js:134
-msgid "steel"
+msgid "فولاد"
 msgstr ""
 
 #: script/localization.js:16
@@ -516,15 +516,15 @@ msgid "torch"
 msgstr ""
 
 #: script/localization.js:20
-msgid "medicine"
+msgid "دارو"
 msgstr ""
 
 #: script/localization.js:21 script/outside.js:22
-msgid "hunter"
+msgid "شکارگر"
 msgstr ""
 
 #: script/localization.js:22 script/outside.js:30
-msgid "trapper"
+msgid "تله چی"
 msgstr ""
 
 #: script/localization.js:23 script/outside.js:38
@@ -548,11 +548,11 @@ msgid "charcutier"
 msgstr ""
 
 #: script/localization.js:28 script/outside.js:55
-msgid "iron miner"
+msgid "معدنچی آهن"
 msgstr ""
 
 #: script/localization.js:29
-msgid "iron mine"
+msgid "معدن آهن"
 msgstr ""
 
 #: script/localization.js:30 script/outside.js:63
@@ -576,11 +576,11 @@ msgid "armourer"
 msgstr ""
 
 #: script/localization.js:35 script/outside.js:79
-msgid "steelworker"
+msgid "فولادکار"
 msgstr ""
 
 #: script/localization.js:36
-msgid "bait"
+msgid "طعمه"
 msgstr ""
 
 #: script/localization.js:37 script/localization.js:44
@@ -600,7 +600,7 @@ msgid "laser rifle"
 msgstr ""
 
 #: script/localization.js:41 script/outside.js:15
-msgid "gatherer"
+msgid "گردآورنده"
 msgstr ""
 
 #: script/localization.js:42
@@ -612,23 +612,23 @@ msgid "thieves"
 msgstr ""
 
 #: script/localization.js:46
-msgid "not enough fur"
+msgid "خز کافی نداری"
 msgstr ""
 
 #: script/localization.js:47
-msgid "not enough wood"
+msgid "چوب کافی نداری"
 msgstr ""
 
 #: script/localization.js:48
-msgid "not enough coal"
+msgid "زغال کافی نداری"
 msgstr ""
 
 #: script/localization.js:49
-msgid "not enough iron"
+msgid "آهن کافی نداری"
 msgstr ""
 
 #: script/localization.js:50
-msgid "not enough steel"
+msgid "فولاد کافی نداری"
 msgstr ""
 
 #: script/localization.js:51
@@ -636,7 +636,7 @@ msgid "not enough sulphur"
 msgstr ""
 
 #: script/localization.js:52
-msgid "baited trap"
+msgid "طعمه به تله افتاده"
 msgstr ""
 
 #: script/localization.js:53
@@ -648,11 +648,11 @@ msgid "not enough cloth"
 msgstr ""
 
 #: script/localization.js:55
-msgid "not enough teeth"
+msgid "دندان کافی نداری"
 msgstr ""
 
 #: script/localization.js:56
-msgid "not enough leather"
+msgid "چرم کافی نداری"
 msgstr ""
 
 #: script/localization.js:57
@@ -720,15 +720,15 @@ msgid "a crudely made charm"
 msgstr ""
 
 #: script/outside.js:143 script/outside.js:562
-msgid "A Silent Forest"
+msgid "یک جنگل آرام"
 msgstr ""
 
 #: script/outside.js:169
-msgid "gather wood"
+msgid "چوب جمع کن"
 msgstr ""
 
 #: script/outside.js:188
-msgid "a stranger arrives in the night"
+msgid "یک غریبه در نیمه شب از راه می رسد"
 msgstr ""
 
 #: script/outside.js:190
@@ -752,35 +752,35 @@ msgid "pop "
 msgstr ""
 
 #: script/outside.js:457
-msgid "forest"
+msgid "جنگل"
 msgstr ""
 
 #: script/outside.js:460
-msgid "village"
+msgid "دهکده"
 msgstr ""
 
 #: script/outside.js:543
-msgid "check traps"
+msgid "تله ها را بررسی کن"
 msgstr ""
 
 #: script/outside.js:564
-msgid "A Lonely Hut"
+msgid "یک کلبۀ تنها"
 msgstr ""
 
 #: script/outside.js:566
-msgid "A Tiny Village"
+msgid "دهکده ای کوچک"
 msgstr ""
 
 #: script/outside.js:568
-msgid "A Modest Village"
+msgid "دهکده ای متوسط"
 msgstr ""
 
 #: script/outside.js:570
-msgid "A Large Village"
+msgid "دهکده ای بزرگ"
 msgstr ""
 
 #: script/outside.js:572
-msgid "A Raucous Village"
+msgid "یک روستا"
 msgstr ""
 
 #: script/outside.js:584
@@ -788,7 +788,7 @@ msgid "the sky is grey and the wind blows relentlessly"
 msgstr ""
 
 #: script/outside.js:594
-msgid "dry brush and dead branches litter the forest floor"
+msgid "بوته های خشک و شاخه های خشکیده، سطح جنگل را پر کرده اند"
 msgstr ""
 
 #: script/outside.js:621
